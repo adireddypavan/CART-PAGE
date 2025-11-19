@@ -58,3 +58,28 @@
 <th><p>Total Amount</p></th>
 <td><p>$260.5</p></td></tr>
 </table></body></html>
+
+use.css
+use.css
+body {
+  background-color: green; /* Makes the whole page background green */
+}
+
+h1 {
+  font-weight: bold;        /* Makes headings bold */
+  font-family: Arial;       /* Uses Arial font for the heading */
+  text-decoration: underline; /* Underlines the heading text */
+  color: green;             /* Makes the heading text green */
+}
+
+p {
+  font-family: "Times New Roman"; /* Uses Times New Roman for paragraph text */
+  color: orange;                  /* Sets paragraph text color to orange */
+  font-size: 20pt;                /* Sets paragraph text size to 20 points */
+}
+
+a {
+  font-family: Arial; /* Uses Arial for links */
+  color: blue;        /* Sets link text color to blue */
+  font-size: 20pt;    /* Makes link text large */
+}
